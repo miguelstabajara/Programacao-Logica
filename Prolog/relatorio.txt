@@ -1,0 +1,5 @@
+NRO CLIENTE         ENDERECO                       TELEFONE
+001 Matheus         Aqui                           99999999
+002 Miguel          Ali                            88888888
+003 Vanessa         La                             77777777
+004 Henrique        Ai                             6666666

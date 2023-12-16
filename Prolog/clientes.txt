@@ -1,0 +1,4 @@
+cliente('Matheus', 'Aqui', 99999999).
+cliente('Miguel', 'Ali', 88888888).
+cliente('Vanessa', 'La', 77777777).
+cliente('Henrique', 'Ai', 6666666).
